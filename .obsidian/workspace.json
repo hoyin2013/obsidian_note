@@ -11,10 +11,14 @@
             "id": "15fed94347f8b3bb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "英语练习.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "英语练习"
             }
           }
         ]
@@ -146,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "英语练习.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "英语练习 的大纲"
             }
           }
         ],
@@ -173,12 +178,10 @@
       "workspaces:管理工作区布局": false,
       "zk-prefixer:创建时间戳笔记": false,
       "random-note:开始漫游笔记": false,
-      "canvas:新建白板": false,
-      "publish:发布更改": false,
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2939b6803d0e7c59",
+  "active": "15fed94347f8b3bb",
   "lastOpenFiles": [
     "未命名.canvas",
     "工作/2025年工作流水.md",
