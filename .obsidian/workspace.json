@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "工作笔记"
             }
+          },
+          {
+            "id": "d82a5b45ccdc8470",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,15 +194,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "15fed94347f8b3bb",
+  "active": "d82a5b45ccdc8470",
   "lastOpenFiles": [
+    "英语练习.md",
+    "工作笔记.md",
     "node14.tar",
     "node16.tar",
     "node18.tar",
-    "英语练习.md",
     "未命名.canvas",
     "工作/2025年工作流水.md",
-    "工作笔记.md",
     "未命名.base",
     "未命名 9.base",
     "未命名 8.base",
@@ -197,7 +210,6 @@
     "未命名 6.base",
     "未命名 5.base",
     "未命名 4.base",
-    "未命名 3.base",
     "simpleui.md",
     "未命名 1.md",
     "工作/2024年工作笔记.md",
