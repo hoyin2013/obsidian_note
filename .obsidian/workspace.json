@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作笔记.md",
+                "file": "copilot/copilot-conversations/你好@20260126_094523.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "工作笔记"
-            }
-          },
-          {
-            "id": "d82a5b45ccdc8470",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.5"
+              "title": "你好@20260126_094523"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,22 +150,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作笔记.md",
+                "file": "copilot/copilot-conversations/你好@20260126_094523.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "工作笔记 的大纲"
+              "title": "你好@20260126_094523 的大纲"
+            }
+          },
+          {
+            "id": "c8c1d98f4094cff3",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,43 +187,51 @@
       "workspaces:管理工作区布局": false,
       "zk-prefixer:创建时间戳笔记": false,
       "random-note:开始漫游笔记": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "d82a5b45ccdc8470",
+  "active": "15fed94347f8b3bb",
   "lastOpenFiles": [
-    "英语练习.md",
+    "工作/2024年工作笔记.md",
+    "工作/2025年工作流水.md",
     "工作笔记.md",
+    "copilot/copilot-conversations/你好@20260126_094523.md",
+    "copilot/copilot-conversations",
+    "copilot",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-conversations/你好@20260126_093803.md",
+    "copilot/copilot-conversations/你好@20260126_093734.md",
+    "copilot/copilot-conversations/你好@20260126_092836.md",
+    "copilot/copilot-conversations/读一下当前的版本说明1.11.5，中文概括一下主要内容@20260126_080727.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "英语练习.md",
     "node14.tar",
     "node16.tar",
     "node18.tar",
     "未命名.canvas",
-    "工作/2025年工作流水.md",
     "未命名.base",
     "未命名 9.base",
     "未命名 8.base",
     "未命名 7.base",
-    "未命名 6.base",
-    "未命名 5.base",
-    "未命名 4.base",
     "simpleui.md",
     "未命名 1.md",
-    "工作/2024年工作笔记.md",
-    "temp/草稿.md",
-    "test.md",
-    "temp/test.md",
-    "Explanatory-Note.md",
-    "2024-10-21.md",
-    "README.md",
-    "README 1.md",
     "Pasted image 20241024111338.png",
     "未命名 1.canvas",
-    "aaa.md",
-    "202410211613.md",
-    "Excalidraw/Drawing 2024-10-21 16.08.53.excalidraw.md",
-    "Pasted image 20241021145814.png",
-    "202410211451.md",
-    "欢迎.md",
-    "创建链接.md"
+    "Pasted image 20241021145814.png"
   ]
 }
